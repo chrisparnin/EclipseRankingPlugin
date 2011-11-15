@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/FaultStudyFeature_1.0.3.Study.jar" id="FaultStudyFeature" version="1.0.3.Study"/>
+</site>
